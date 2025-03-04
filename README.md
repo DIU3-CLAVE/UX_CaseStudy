@@ -43,9 +43,7 @@ Miembros:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
-El proyecto que hemos elegido es la página de “Kerarqueo artesanía”, un centro artesanal de cerámica dedicado al Patrimonio y reproducciones arqueológicas. Aunque no tenemos experiencia con la cerámica, ambas frecuentamos páginas sobre otro tipo de artesanías como es el crochet.
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+El proyecto que hemos elegido es la página de “Kerarqueo artesanía”, un centro artesanal de cerámica dedicado al Patrimonio y reproducciones arqueológicas. Aunque no tenemos experiencia con la cerámica, ambas frecuentamos páginas sobre otro tipo de artesanías como es el crochet. 
 
 
 ### 1.b Competitive Analysis
