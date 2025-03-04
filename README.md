@@ -47,6 +47,8 @@ El proyecto que hemos elegido es la página de “Kerarqueo artesanía”, un ce
 
 El objetivo de la investigación es, a parte de mejorar la experiencia del usuario al utilizar la plataforma,  incrementar las ventas de productos e inscripciones a los cursos ofertados. Así como aumentar la visibilidad y causar mayor impacto en las nuevas generaciones para preservar las tradiciones artesanales y arqueológicas. 
 
+Para ello, vamos a realizar un análisis comparativo con otras páginas similares, mapas de viaje, creación de personas ficticias para ponernos en el papel de usuarios interesados, y revisiones de usabilidad. 
+
 
 
 ### 1.b Competitive Analysis
