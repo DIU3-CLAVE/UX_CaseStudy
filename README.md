@@ -45,6 +45,9 @@ Miembros:
 -----
 El proyecto que hemos elegido es la página de “Kerarqueo artesanía”, un centro artesanal de cerámica dedicado al Patrimonio y reproducciones arqueológicas. Aunque no tenemos experiencia con la cerámica, ambas frecuentamos páginas sobre otro tipo de artesanías como es el crochet. 
 
+El objetivo de la investigación es, a parte de mejorar la experiencia del usuario al utilizar la plataforma,  incrementar las ventas de productos e inscripciones a los cursos ofertados. Así como aumentar la visibilidad y causar mayor impacto en las nuevas generaciones para preservar las tradiciones artesanales y arqueológicas. 
+
+
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
