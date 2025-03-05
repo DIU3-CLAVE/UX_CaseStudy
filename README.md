@@ -55,8 +55,8 @@ Para ello, vamos a realizar un análisis comparativo con otras páginas similare
 ![Método UX](img/Competitive.png) 
 -----
 Para el análisis competitivo hemos elegido 2 páginas relacionadas también con la venta de artesanías:
--Pepa Moreno Cerámica:
--Alfarería Núñez:
+- Pepa Moreno Cerámica:
+- Alfarería Núñez:
 
 
 ### 1.c Personas
