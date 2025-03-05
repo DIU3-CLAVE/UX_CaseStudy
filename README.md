@@ -54,8 +54,9 @@ Para ello, vamos a realizar un análisis comparativo con otras páginas similare
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
-
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Para el análisis competitivo hemos elegido 2 páginas relacionadas también con la venta de artesanías:
+-Pepa Moreno Cerámica:
+-Alfarería Núñez:
 
 
 ### 1.c Personas
