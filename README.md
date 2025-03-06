@@ -43,11 +43,11 @@ Miembros:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
-El proyecto que hemos elegido es la página de “Kerarqueo artesanía”, un centro artesanal de cerámica dedicado al Patrimonio y reproducciones arqueológicas. Aunque no tenemos experiencia con la cerámica, ambas frecuentamos páginas sobre otro tipo de artesanías como es el crochet. 
+El proyecto seleccionado para la investigación es la página web de “Kerarqueo Artesanía”, un centro artesanal de cerámica dedicado al Patrimonio y reproducciones arqueológicas. Aunque no contamos con experiencia previa en cerámica, estamos familiarizadas con el mundo de la artesanía a través de otras disciplinas como el crochet, lo que nos permite acercarnos al contexto desde una perspectiva de interés y valoración por las técnicas tradicionales.
 
-El objetivo de la investigación es, a parte de mejorar la experiencia del usuario al utilizar la plataforma,  incrementar las ventas de productos e inscripciones a los cursos ofertados. Así como aumentar la visibilidad y causar mayor impacto en las nuevas generaciones para preservar las tradiciones artesanales y arqueológicas. 
+El objetivo principal de la investigación es, a parte de mejorar la experiencia del usuario al utilizar la plataforma,  incrementar las ventas de productos e inscripciones a los cursos ofertados. Además, se busca aumentar la visibilidad de la marca y causar mayor impacto en un público más jóven, contribuyendo así en  la preservación de las tradiciones artesanales y arqueológicas. 
 
-Para ello, vamos a realizar un análisis comparativo con otras páginas similares, mapas de viaje, creación de personas ficticias para ponernos en el papel de usuarios interesados, y revisiones de usabilidad. 
+La estrategia que seguiremos estará basada en realizar análisis comparativos con plataformas similares, la creación de personas ficticias que nos ayuden a entender mejor al público objetivo, así como user journey maps que nos ayuden a mejorar la interacción con nuestra página. Finalmente, se realizará un usability review que identifique problemas de usabilidad.
 
 
 
@@ -55,8 +55,27 @@ Para ello, vamos a realizar un análisis comparativo con otras páginas similare
 ![Método UX](img/Competitive.png) 
 -----
 Para el análisis competitivo hemos elegido 2 páginas relacionadas también con la venta de artesanías:
-- Pepa Moreno Cerámica:
-- Alfarería Núñez:
+
+* Pepa Moreno Cerámica: Taller de cerámica artesanal y sostenible en Baeza. Además, ofrecen talleres y cursos.
+* Alfarería Núñez: Taller de cerámica artesanal realizada a mano y venta online. Además, cuenta con un blog muy interesante. 
+
+Hemos elegido estas páginas porque ofrecen productos artesanales y servicios similares a Kerarqueo Granada. Cada una de ellas, presenta eelmentos que se podrían haber aprovechado mejor en las demás. Por ejemplo, el blog de Alfarería Núñez destaca sobre los de Pepa Moreno o Kerarkeo; mientras que la estética de Pepa Moreno resulta más atractiva que la de las otras dos.
+Por ello, hemos pensado que realizar una comparativa con estas 2 páginas podría aportar información relevante a nuestra investigación.
+
+Para comparar las 3 páginas hemos valorado de 0 a 3 estrellas los siguientes criterios:
+* Actualizaciones frecuentes: comprobar si la página está actualizada en cuanto a los talleres que ofertan como en las publicaciones de los blogs.
+* Estrategia de expansión: hemos valorado que a parte de vender artesanías, también ofrezcan cursos y tengan un blog atractivo.
+* Estrategia de marketing: si tienen enlaces visibles a sus redes sociales y que funcionen correctamente
+* Rendimiento de la web: hemos valorado que tarde poco en cargar las páginas
+* Seguridad y protección de datos: que dispongan de aviso legal, política de privacidad y pago seguro; y que sean visibles.
+* Soporte multilingüe: si se puede cambiar el idioma de la página
+* Opciones de filtrado y búsqueda: si se pueden filtrar los artículos según la categoría, precio, más recientes… o directamente hacer una búsqueda concreta.
+* Contacto: si hay información de contacto visible como el teléfono, correo electrónico o incluso un formulario para enviar un mensaje. También hemos valorado que tenga mapa útil.
+* Cuenta de usuario: hemos valorado si hay opción de que los usuarios se creen una cuenta y la facilidad para hacerlo.
+* Diseño intuitivo: si la página es fácil de usar, si está bien estructurada y los botones clicables son distinguibles.
+* Retroalimentación: hemos valorado que la página ofrezca mensajes de confirmación, ya sea cuando se incluye un producto en el carrito o al realizar un pago, además de si hay opción de valoraciones para los usuarios.
+* Inscripción a cursos: si ofrecen cursos activos y hay facilidades en la página para apuntarse.
+
 
 
 ### 1.c Personas
