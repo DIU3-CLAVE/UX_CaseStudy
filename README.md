@@ -59,7 +59,7 @@ Para el análisis competitivo hemos elegido 2 páginas relacionadas también con
 * Pepa Moreno Cerámica: Taller de cerámica artesanal y sostenible en Baeza. Además, ofrecen talleres y cursos.
 * Alfarería Núñez: Taller de cerámica artesanal realizada a mano y venta online. Además, cuenta con un blog muy interesante. 
 
-Hemos elegido estas páginas porque ofrecen productos artesanales y servicios similares a Kerarqueo Granada. Cada una de ellas, presenta eelmentos que se podrían haber aprovechado mejor en las demás. Por ejemplo, el blog de Alfarería Núñez destaca sobre los de Pepa Moreno o Kerarkeo; mientras que la estética de Pepa Moreno resulta más atractiva que la de las otras dos.
+Hemos elegido estas páginas porque ofrecen productos artesanales y servicios similares a Kerarqueo Granada. Cada una de ellas, presenta elmentos que se podrían haber aprovechado mejor en las demás. Por ejemplo, el blog de Alfarería Núñez destaca sobre los de Pepa Moreno o Kerarkeo; mientras que la estética de Pepa Moreno resulta más atractiva que la de las otras dos.
 Por ello, hemos pensado que realizar una comparativa con estas 2 páginas podría aportar información relevante a nuestra investigación.
 
 Para comparar las 3 páginas hemos valorado de 0 a 3 estrellas los siguientes criterios:
