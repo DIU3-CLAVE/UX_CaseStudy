@@ -4,6 +4,8 @@ Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraf
 [Guiones de prácticas](GuionesPracticas/)
 
 Grupo: DIU3_CLAVE.  Curso: 2024/25 
+![Captura desde 2025-02-25 18-25-42](https://github.com/user-attachments/assets/84f6e649-dd57-4e8e-8fd5-200c10979b14)
+
 
 Actualizado: 04/03/2025
 
