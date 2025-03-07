@@ -37,11 +37,8 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
-
-### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
+### 1.a User Reseach Plan 
 -----
 El proyecto seleccionado para la investigación es la página web de “Kerarqueo Artesanía”, un centro artesanal de cerámica dedicado al Patrimonio y reproducciones arqueológicas. Aunque no contamos con experiencia previa en cerámica, estamos familiarizadas con el mundo de la artesanía a través de otras disciplinas como el crochet, lo que nos permite acercarnos al contexto desde una perspectiva de interés y valoración por las técnicas tradicionales.
 
@@ -52,7 +49,6 @@ La estrategia que seguiremos estará basada en realizar análisis comparativos c
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
 -----
 Para el análisis competitivo hemos elegido 2 páginas relacionadas también con la venta de artesanías:
 
