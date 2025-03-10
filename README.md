@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraf
 
 Grupo: DIU3_CLAVE.  Curso: 2024/25 
 
-Actualizado: 04/03/2025
+Actualizado: 10/03/2025
 
 Proyecto: 
 
@@ -77,9 +77,8 @@ Enlace al pdf: [Competitor Analysis](./P1/2.%20Competitor_Analysis/Competitor%20
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
------
-
+![Persona 1](./P1/3.Personas/Julio.png) 
+![Persona 2](./P1/3.Personas/Raquel.png)
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
