@@ -77,7 +77,9 @@ Enlace al pdf: [Competitor Analysis](./P1/2.%20Competitor_Analysis/Competitor%20
 
 
 ### 1.c Personas
-Para esta práctica hemos elegidos dos perfiles de personas diferentes y con distintos objetivos. Por un lado, nos encontramos con Julio, hombre mexicano de mediana edad cuyo objetivo es comprar una artesanía arqueológica para añdir a su colección. Por otro lado, Raquel es una estudiante de medicina que busca apuntarse a clases de cerámica para desconectar del estrés de la universidad.
+Para esta práctica hemos elegidos dos perfiles de personas diferentes y con distintos objetivos. Por un lado, nos encontramos con Julio, un hombre mexicano de mediana edad que quiere comprar una artesanía arqueológica para añdir a su colección. Por otro lado, Raquel es una estudiante de medicina que busca apuntarse a clases de cerámica para desconectar del estrés de la universidad.
+
+
 ![Persona 1](./P1/3.Personas/Julio.png) 
 ![Persona 2](./P1/3.Personas/Raquel.png)
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
