@@ -72,7 +72,7 @@ Para comparar las 3 páginas hemos valorado de 0 a 3 estrellas los siguientes cr
 * Retroalimentación: hemos valorado que la página ofrezca mensajes de confirmación, ya sea cuando se incluye un producto en el carrito o al realizar un pago, además de si hay opción de valoraciones para los usuarios.
 * Inscripción a cursos: si ofrecen cursos activos y hay facilidades en la página para apuntarse.
 
-Enlace al pdf: [Competitor Analysis](./P1/2.%20Competitor_Analysis/Competitor%20Analysis%20[DIU23]%20(Copy).pdf)
+Enlace al pdf: [Competitor Analysis](./P1/2.CompetitorAnalysis/Competitor%20Analysis%20[DIU23].pdf)
 
 
 
