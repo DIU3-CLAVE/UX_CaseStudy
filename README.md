@@ -85,14 +85,11 @@ Para esta práctica hemos elegidos dos perfiles de personas diferentes y con dis
 
 
 ### 1.d User Journey Map
-Hemos elegido estos dos casos de estudio para valorar la experiencia del usuario en las dos tareas más comunes que se pueden hacer en la página: comprar un artículo y apuntarse a un curso. Además, queríamos reflejar lo poco intuitivo que es realizarlas y las dificultades que hemos encontrado.
+Hemos elegido estos dos casos de estudio para valorar la experiencia del usuario en las dos tareas más comunes que se pueden hacer en la página: comprar un artículo y apuntarse a un curso. Además, queríamos reflejar lo poco intuitivo que es realizarlas y las dificultades que hemos encontrado. Lo más destacable es que no queda muy claro cómo añadir artículos al carrito y no se sabe cómo ni cuándo se recibirá respuesta de las solicitudes enviadas.
 
 
 ![Journey 1](./P1/4.Journey%20Maps/Journey1.png)
 ![Journey 2](./P1/4.Journey%20Maps/Journey2.png) 
-
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
