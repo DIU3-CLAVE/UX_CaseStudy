@@ -88,15 +88,13 @@ Para esta práctica hemos elegidos dos perfiles de personas diferentes y con dis
 Hemos elegido estos dos casos de estudio para valorar la experiencia del usuario en las dos tareas más comunes que se pueden hacer en la página: comprar un artículo y apuntarse a un curso. Además, queríamos reflejar lo poco intuitivo que es realizarlas y las dificultades que hemos encontrado. Lo más destacable es que no queda muy claro cómo añadir artículos al carrito y no se sabe cómo ni cuándo se recibirá respuesta de las solicitudes enviadas.
 
 
-![Journey 1](./P1/4.Journey%20Maps/Journey1.png)
-![Journey 2](./P1/4.Journey%20Maps/Journey2.png) 
+![Journey 1](./P1/4.JourneyMaps/Journey1.png)
+![Journey 2](./P1/4.JourneyMaps/Journey2.png) 
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
-----
+- Enlace al documento: ![Usability_review](./P1/5.UsabilityReview/Usability-review.pdf)
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
 >>> - URL y Valoración numérica obtenida: 
 >>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
