@@ -92,7 +92,7 @@ Hemos elegido estos dos casos de estudio para valorar la experiencia del usuario
 ![Journey 2](./P1/4.JourneyMaps/Journey2.png) 
 
 ### 1.e Usability Review
-- Enlace al documento: ![Usability_review](./P1/5.UsabilityReview/Usability-review.pdf)
+- Enlace al documento: [Usability_review](./P1/5.UsabilityReview/Usability-review.pdf)
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - URL y Valoración numérica obtenida: 
