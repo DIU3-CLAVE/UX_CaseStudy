@@ -94,7 +94,7 @@ Hemos elegido estos dos casos de estudio para valorar la experiencia del usuario
 ### 1.e Usability Review
 - Enlace al documento: [Usability_review](./P1/5.UsabilityReview/Usability-review.pdf)
 -  Valoración numérica obtenida: 61 - Moderate
-- Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- Comentario sobre la revisión:  La puntuación obtenida nos parece adecuada ya que consideramos que la página es mejorable puesto que el proceso de compra no es nada intuitivo y el menú es inconsistente. Sin embargo, cabe destacar la variedad de servicios que ofrece, las facilidades para contactar con ellos y una respuesta rápida. Además, a la página no le faltan muchos elementos ya que cuenta con filtros, buscador, formularios bien estructurados...
 
 <br>
 
