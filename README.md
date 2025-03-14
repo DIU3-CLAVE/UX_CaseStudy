@@ -93,7 +93,7 @@ Hemos elegido estos dos casos de estudio para valorar la experiencia del usuario
 
 ### 1.e Usability Review
 - Enlace al documento: [Usability_review](./P1/5.UsabilityReview/Usability-review.pdf)
--  Valoración numérica obtenida: 
+-  Valoración numérica obtenida: 61 - Moderate
 - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
 <br>
