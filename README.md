@@ -46,7 +46,7 @@ El objetivo principal de la investigación es, a parte de mejorar la experiencia
 
 La estrategia que seguiremos estará basada en realizar análisis comparativos con plataformas similares, la creación de personas ficticias que nos ayuden a entender mejor al público objetivo, así como user journey maps que nos ayuden a mejorar la interacción con nuestra página. Finalmente, se realizará un usability review que identifique problemas de usabilidad.
 
-Enlace al pdf: [User Research Plan](./P1/1.UserResearchPlan/User_Research_Plan.pdf)
+Enlace al pdf: [User Research Plan](./P1/1.UserResearchPlan/User_Reasearch_Plan.pdf)
 
 
 ### 1.b Competitive Analysis
