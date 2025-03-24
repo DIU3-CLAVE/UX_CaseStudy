@@ -133,7 +133,7 @@ Enlace al pdf: [Briefing final](./P1/6.Briefing/Briefing.pdf)
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-
+![feedback caprute grid](./P2/1.FeedbackCaptureGrid/feedback_capture_grid.png)
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 
