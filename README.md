@@ -134,12 +134,6 @@ Enlace al pdf: [Briefing final](./P1/6.Briefing/Briefing.pdf)
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 ![feedback caprute grid](./P2/1.FeedbackCaptureGrid/feedback_capture_grid.png)
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
   
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
