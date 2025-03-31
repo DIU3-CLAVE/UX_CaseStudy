@@ -7,7 +7,7 @@
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+* ScopeCanvas: [ScopeCanvas](./2.ScopeCanvas/ScopeCanvas.pdf)
 
 
 ### TASK ANALYSIS
