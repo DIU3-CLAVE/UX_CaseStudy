@@ -153,7 +153,7 @@ Enlace al pdf: [Briefing final](./P1/6.Briefing/Briefing.pdf)
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
-
+![UserFlow](P2/3.UserFlow/Userflow1.png)
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
