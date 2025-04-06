@@ -135,9 +135,7 @@ Enlace al pdf: [Briefing final](./P1/6.Briefing/Briefing.pdf)
 ----
 ![feedback caprute grid](./P2/1.FeedbackCaptureGrid/feedback_capture_grid.png)
   
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+Queremos acercar el mundo de la cerámica a más personas y contribuir a preservar esta tradición. Para ello, proponemos una pequeña prueba que se puede realizar desde casa. Crearemos kits con todos los materiales necesarios para llevar a cabo proyectos sencillos de cerámica, guiados por tutoriales disponibles en nuestra web. A través de esta prueba, los usuarios podrán explorar esta actividad creativa y así decidir si dar el siguiente paso: apuntarse a nuestros talleres y cursos, donde trabajarán con herramientas y materiales profesionales para llevar sus proyectos a otro nivel.
 
 
 ### 2.b ScopeCanvas
