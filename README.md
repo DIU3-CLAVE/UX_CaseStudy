@@ -152,7 +152,7 @@ Queremos acercar el mundo de la cerámica a más personas y contribuir a preserv
 ![Método UX](img/Sitemap.png) 
 -----
 ![UserFlow1](P2/3.UserFlows/UserFlowKitTutoriales.png)
-![UserFlow2](P2/3.UserFlows/UserFlowInicioSesion.png)
+![UserFlow2](P2/3.UserFlows/UserFlowIniciarSesion.png)
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
