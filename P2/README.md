@@ -13,7 +13,7 @@
 ### TASK ANALYSIS
 
 * User Task Matrix 
-* User/Task flow
+* User/Task flow: [UserFlows](./3.UserFlows/UserFlows.pdf)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
