@@ -18,7 +18,7 @@
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+* Sitemap:  [Sitemap](./4.Sitemap/Sitemap.pdf) 
 * Labelling 
 
 
