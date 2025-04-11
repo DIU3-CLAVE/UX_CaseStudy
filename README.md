@@ -7,13 +7,11 @@ Grupo: DIU3_CLAVE.  Curso: 2024/25
 
 Actualizado: 1/04/2025
 
-Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: ARTEA
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+La idea de nuestro proyecto es añadir una sección para que los usuarios puedan aprender el arte de la cerámica gracias a kits y tutoriales que estarán disponibles en la página. El objetivo principal es dar una pequeña prueba que pueden realizar desde casa para que los usuarios decidan si les gusta. Y en ese caso, animarles a que se apunten a los cursos y talleres.
 
 Logotipo: 
 
@@ -140,7 +138,9 @@ Queremos acercar el mundo de la cerámica a más personas y contribuir a preserv
 ![ScopeCanvas](P2/2.ScopeCanvas/ScopeCanvas.png)
 
 ### 2.b User Flow (task) analysis 
-* User Flows: hemos realizado dos user flows que muestran los pasos que seguirían los usuarios por nuestra página en dos situaciones. El primero, cuando quieren adentrarse en el mundo de la artesanía para aprender (en nuestra sección "ARTEA"), ya sea para comprar algún kit o para visualizar un tutorial. El segundo representa el flujo del usuario para iniciar sesión o registrarse en la plataforma, lo cual es necesario para realizar ciertas acciones como dejar un comentario en los tutoriales o hacer una compra.
+* User Flows
+  
+Hemos realizado dos user flows que muestran los pasos que seguirían los usuarios por nuestra página en dos situaciones. El primero, cuando quieren adentrarse en el mundo de la artesanía para aprender (en nuestra sección "ARTEA"), ya sea para comprar algún kit o para visualizar un tutorial. El segundo representa el flujo del usuario para iniciar sesión o registrarse en la plataforma, lo cual es necesario para realizar ciertas acciones como dejar un comentario en los tutoriales o hacer una compra.
 ![UserFlow1](P2/3.UserFlows/UserFlowKitYTutoriales.png)
 ![UserFlow2](P2/3.UserFlows/UserFlowIniciarSesion.png)
 
@@ -153,6 +153,7 @@ Queremos acercar el mundo de la cerámica a más personas y contribuir a preserv
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
 
 * Sitemap
+  
 ![Sitemap](P2/4.Sitemap/Sitemap_.png)
 
 
