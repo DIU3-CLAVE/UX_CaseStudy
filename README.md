@@ -163,15 +163,33 @@ Término | Significado
 
 
 ### 2.d Wireframes
+* Bocetos a mano
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+* Lo-FI Wireframes: los diseños de baja/media fidelidad los hemos hecho con figma. Tenemos las siguientes vistas.
 
-<br>
+   1. Vista general de tutoriales y kits (es la misma) y su versión con el menú desplegado.
+      ![TutorialesyKits](P2/5.Wireframes/TutorialesyKits.png)
+
+  2. Vista general de tutoriales y kits en versión para tablet y móvil.
+      ![TabletyMovil](P2/5.Wireframes/TutorialesTabletyMovil.png)
+
+  3. Vista del menú desplegable y submenús de la versión para móviles.
+      ![MenuMovil](P2/5.Wireframes/MenuMovil.png)
+
+  4. Vista de un tutorial y de un kit concretos.
+      ![TutorialyKit](P2/5.Wireframes/TutorialyKit.png)
+
+  5. Vista de inicio de sesión y de registro.
+      ![InicioSesionyRegistro](P2/5.Wireframes/InicioSesionyRegistro.png)
+
+  6. Vista de la sección "¿Qué es ARTEA?"
+      ![Artea](P2/5.Wireframes/Artea.png)
+
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
+  
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
