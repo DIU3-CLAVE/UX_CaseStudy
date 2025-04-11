@@ -128,15 +128,15 @@ Enlace al pdf: [Briefing final](./P1/6.Briefing/Briefing.pdf)
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+Hemos realizado un Feedback Capture Grid sobre la página web de "Kerarqueo". En él, hemos sintetizado los aspectos más relevantes desde nuestra experiencia al analizar la página en la práctica 1. Esto nos ayudará a plantear mejor el diseño de nuestra plataforma.
+
 ![feedback caprute grid](./P2/1.FeedbackCaptureGrid/feedback_capture_grid.png)
   
-Queremos acercar el mundo de la cerámica a más personas y contribuir a preservar esta tradición. Para ello, proponemos una pequeña prueba que se puede realizar desde casa. Crearemos kits con todos los materiales necesarios para llevar a cabo proyectos sencillos de cerámica, guiados por tutoriales disponibles en nuestra web. A través de esta prueba, los usuarios podrán explorar esta actividad creativa y así decidir si dar el siguiente paso: apuntarse a nuestros talleres y cursos, donde trabajarán con herramientas y materiales profesionales para llevar sus proyectos a otro nivel.
-
 
 ### 2.b ScopeCanvas
+Queremos acercar el mundo de la cerámica a más personas y contribuir a preservar esta tradición. Para ello, proponemos una pequeña prueba que se puede realizar desde casa. Crearemos kits con todos los materiales necesarios para llevar a cabo proyectos sencillos de cerámica, guiados por tutoriales disponibles en nuestra web. A través de esta prueba, los usuarios podrán explorar esta actividad creativa y así decidir si dar el siguiente paso: apuntarse a nuestros talleres y cursos, donde trabajarán con herramientas y materiales profesionales para llevar sus proyectos a otro nivel.
+
 ![ScopeCanvas](P2/2.ScopeCanvas/ScopeCanvas.png)
 
 ### 2.b User Flow (task) analysis 
