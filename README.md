@@ -140,8 +140,11 @@ Queremos acercar el mundo de la cerámica a más personas y contribuir a preserv
 ![ScopeCanvas](P2/2.ScopeCanvas/ScopeCanvas.png)
 
 ### 2.b User Flow (task) analysis 
+* User Flows: hemos realizado dos user flows que muestran los pasos que seguirían los usuarios por nuestra página en dos situaciones. El primero, cuando quieren adentrarse en el mundo de la artesanía para aprender (en nuestra sección "ARTEA"), ya sea para comprar algún kit o para visualizar un tutorial. El segundo representa el flujo del usuario para iniciar sesión o registrarse en la plataforma, lo cual es necesario para realizar ciertas acciones como dejar un comentario en los tutoriales o hacer una compra.
 ![UserFlow1](P2/3.UserFlows/UserFlowKitYTutoriales.png)
 ![UserFlow2](P2/3.UserFlows/UserFlowIniciarSesion.png)
+
+* Task Analysis
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
@@ -149,6 +152,7 @@ Queremos acercar el mundo de la cerámica a más personas y contribuir a preserv
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
 
+* Sitemap
 ![Sitemap](P2/4.Sitemap/Sitemap_.png)
 
 
