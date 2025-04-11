@@ -23,6 +23,8 @@
 
 
 ### Prototipo Lo-FI Wireframe 
+* Bocetos a mano:
+* Lo-FI Wireframes:  [Wireframe](./5.Wireframes/Wireframes.pdf)
 
 
 ### Conclusiones  
