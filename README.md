@@ -154,7 +154,7 @@ Hemos realizado dos user flows que muestran los pasos que seguirían los usuario
 
 * Sitemap
   
-![Sitemap](P2/4.Sitemap/Sitemap_.png)
+![Sitemap](P2/4.Sitemap/Sitemap.png)
 
 
 Término | Significado     
