@@ -131,34 +131,21 @@ Enlace al pdf: [Briefing final](./P1/6.Briefing/Briefing.pdf)
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
-----
 ![feedback caprute grid](./P2/1.FeedbackCaptureGrid/feedback_capture_grid.png)
   
 Queremos acercar el mundo de la cerámica a más personas y contribuir a preservar esta tradición. Para ello, proponemos una pequeña prueba que se puede realizar desde casa. Crearemos kits con todos los materiales necesarios para llevar a cabo proyectos sencillos de cerámica, guiados por tutoriales disponibles en nuestra web. A través de esta prueba, los usuarios podrán explorar esta actividad creativa y así decidir si dar el siguiente paso: apuntarse a nuestros talleres y cursos, donde trabajarán con herramientas y materiales profesionales para llevar sus proyectos a otro nivel.
 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
-----
 ![ScopeCanvas](P2/2.ScopeCanvas/ScopeCanvas.png)
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
-
-
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
------
 ![UserFlow1](P2/3.UserFlows/UserFlowKitYTutoriales.png)
 ![UserFlow2](P2/3.UserFlows/UserFlowIniciarSesion.png)
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
-----
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
 
@@ -171,8 +158,6 @@ Término | Significado
 
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
------
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
