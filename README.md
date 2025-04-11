@@ -149,7 +149,7 @@ Queremos acercar el mundo de la cerámica a más personas y contribuir a preserv
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
 
-![Sitemap](P2/4.Sitemap/Sitemap.png)
+![Sitemap](P2/4.Sitemap/Sitemap_.png)
 
 
 Término | Significado     
