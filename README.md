@@ -171,8 +171,6 @@ Acción | Usuario no registrado | Usuario registrado | Administrador
 Enlace al pdf: [TaskAnalysis](./P2/3.UserFlows/TaskAnalysis.pdf)
 ### 2.c IA: Sitemap + Labelling 
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
-
 * Sitemap
   
 ![Sitemap](P2/4.Sitemap/Sitemap.png)
@@ -210,7 +208,7 @@ Enlace al pdf: [TaskAnalysis](./P2/3.UserFlows/TaskAnalysis.pdf)
 | Reproducciones arqueológicas | Catálogo específico para réplicas de piezas arqueológicas de distintos períodos históricos como la Prehistoria, Romana, Griega…               |
 | Regalos institucionales   | Sección con productos personalizados que promueven la identidad cultural de los municipios                                                         |
 
-
+Enlace al pdf: [Labelling](./P2/4.Sitemap/Labelling.pdf) 
 
 ### 2.d Wireframes
 * Bocetos a mano
