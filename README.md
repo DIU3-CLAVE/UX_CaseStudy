@@ -163,6 +163,7 @@ Acción | Usuario no registrado | Usuario registrado | Administrador
   Subir tutorial | - | - | Alta
   Subir kit | - | - | Alta
   Seleccionar componentes del kit | - | Alta | Baja
+  Cancelar compra | - | Media | Baja
 
 > [!NOTE]
 > Hemos valorado las tareas según la prioridad o relevancia para los distintos tipos de usuario. Estas serían Alta/Media/Baja/- (no tiene acceso)
@@ -177,9 +178,38 @@ Enlace al pdf: [TaskAnalysis](./P2/3.UserFlows/TaskAnalysis.pdf)
 ![Sitemap](P2/4.Sitemap/Sitemap.png)
 
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+| **Termino**                  | **Significado**                                                                                                                                     |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| HomePage                  | Página principal que da acceso al resto de funcionalidades de la web                                                                               |
+| Mi cuenta                 | Página donde se muestra todo lo relacionado con la cuenta de usuario                                                                               |
+| Carrito                   | Página donde encuentras la lista de productos que quieres comprar                                                                                  |
+| ARTEA                     | Sección donde se encuentra todo lo relacionado con aprender el arte de la cerámica                                                                |
+| Sobre nosotros            | Sección donde se presenta información general sobre la empresa y sus integrantes                                                                  |
+| Catálogo                  | Sección donde se encuentra la selección de productos ofrecidos para la venta                                                                      |
+| Blog                      | Sección donde suben post sobre los eventos de la empresa                                                                                           |
+| Iniciar sesión            | Página de acceso para usuarios registrados. Podrá incluir sus credenciales para acceder a funciones avanzadas                                     |
+| Registrarse               | Página de acceso para usuarios no registrados. Aquí pueden crearse una cuenta de usuario y disponer de más acciones como comentar o comprar       |
+| Mi Perfil                 | Sección donde el usuario puede ver los datos compartidos con Kerarqueo Granada                                                                    |
+| Editar perfil             | Permite editar los datos del perfil del usuario                                                                                                    |
+| Cerrar sesión             | Permite cerrar la sesión a un usuario ya registrado con sesión iniciada                                                                            |
+| Realizar compra           | Permite acceder al pago de los productos seleccionados en el carrito y un formulario para rellenar la información de envío                        |
+| Cancelar compra           | Permite cancelar el proceso de compra                                                                                                              |
+| ¿Qué es ARTEA?            | Página donde se explica con más detalle qué es la nueva sección ARTEA                                                                             |
+| Cursos                    | Página con los cursos y talleres disponibles                                                                                                       |
+| Inscribirse               | Permite inscribirse a un curso de la selección                                                                                                     |
+| Kits                      | Página con el catálogo de kits ofrecidos                                                                                                           |
+| Selección                 | Permite seleccionar los componentes de un kit que quieres comprar                                                                                 |
+| Tutoriales                | Página con el catálogo de tutoriales disponibles                                                                                                   |
+| Buscar                    | Permite buscar un tutorial o kit concretos                                                                                                         |
+| Comentar                  | Permite incluir un comentario en uno de los tutoriales, así como valorar el tutorial (dar me gusta o no me gusta) e interaccionar con otros usuarios |
+| ¿Quiénes somos?           | Sección con información acerca de la empresa y sus integrantes                                                                                     |
+| Contacto                  | Sección con información de contacto, correo, teléfono, étc                                                                                         |
+| Preguntas frecuentes      | Sección con respuestas a preguntas frecuentes de usuarios                                                                                          |
+| Términos y condiciones    | Página con los términos y condiciones, donde se incluyen varias políticas referentes al envío, las reseñas, etc                                   |
+| Todos los productos       | Página con el catálogo de todos los productos que están a la venta, ya sean artesanías o materiales                                               |
+| Reproducciones arqueológicas | Catálogo específico para réplicas de piezas arqueológicas de distintos períodos históricos como la Prehistoria, Romana, Griega…               |
+| Regalos institucionales   | Sección con productos personalizados que promueven la identidad cultural de los municipios                                                         |
+
 
 
 ### 2.d Wireframes
