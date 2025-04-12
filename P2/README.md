@@ -19,7 +19,7 @@
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap:  [Sitemap](./4.Sitemap/Sitemap.pdf) 
-* Labelling 
+* Labelling:  [Labelling](./4.Sitemap/Labelling.pdf) 
 
 
 ### Prototipo Lo-FI Wireframe 
