@@ -121,7 +121,7 @@ En conclusión, la página tiene potencial, pero es necesario mejorar la estéti
 botones defectuosos, reorganizar el menú y simplificar el proceso de compra para hacerlo
 más intuitivo.
 
-Enlace al pdf: [Briefing final](./P1/6.Briefing/Briefing.pdf)
+* Enlace al pdf: [Briefing final](./P1/6.Briefing/Briefing.pdf)
 <br>
 
 ## Paso 2. UX Design  
@@ -168,7 +168,7 @@ Acción | Usuario no registrado | Usuario registrado | Administrador
 > [!NOTE]
 > Hemos valorado las tareas según la prioridad o relevancia para los distintos tipos de usuario. Estas serían Alta/Media/Baja/- (no tiene acceso)
 
-Enlace al pdf: [TaskAnalysis](./P2/3.UserFlows/TaskAnalysis.pdf)
+* Enlace al pdf: [TaskAnalysis](./P2/3.UserFlows/TaskAnalysis.pdf)
 ### 2.c IA: Sitemap + Labelling 
 
 * Sitemap
@@ -208,7 +208,7 @@ Enlace al pdf: [TaskAnalysis](./P2/3.UserFlows/TaskAnalysis.pdf)
 | Reproducciones arqueológicas | Catálogo específico para réplicas de piezas arqueológicas de distintos períodos históricos como la Prehistoria, Romana, Griega…               |
 | Regalos institucionales   | Sección con productos personalizados que promueven la identidad cultural de los municipios                                                         |
 
-Enlace al pdf: [Labelling](./P2/4.Sitemap/Labelling.pdf) 
+* Enlace al pdf: [Labelling](./P2/4.Sitemap/Labelling.pdf) 
 
 ### 2.d Wireframes
 * Bocetos a mano
