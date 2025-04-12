@@ -211,7 +211,7 @@ Acción | Usuario no registrado | Usuario registrado | Administrador
 * Enlace al pdf: [Labelling](./P2/4.Sitemap/Labelling.pdf) 
 
 ### 2.d Wireframes
-* Bocetos a mano
+* Bocetos a mano: [Bocetos](./P2/5.Wireframes/Bocetos.pdf) 
 
 * Lo-FI Wireframes: los diseños de baja/media fidelidad los hemos hecho con figma. Tenemos las siguientes vistas.
 
