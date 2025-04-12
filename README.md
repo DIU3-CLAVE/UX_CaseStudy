@@ -147,6 +147,27 @@ Hemos realizado dos user flows que muestran los pasos que seguirían los usuario
 * Task Analysis
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
+Acción | Usuario no registrado | Usuario registrado | Administrador   
+| ------------- | ------------- | ------------- | -------------
+  Iniciar sesión  | - | Alta | Alta
+  Cerrar sesión | - | Media | Alta
+  Registrarse | Alta | - | -
+  Buscar kit | Alta | Alta | Alta
+  Buscar tutorial | Alta | Alta | Alta
+  Comprar | - | Alta | Baja
+  Ver tutorial | Alta | Alta | Baja
+  Inscribirse a un curso | - | Alta | Baja
+  Dejar un comentario | - | Media | Baja
+  Editar perfil | - | Alta | Alta 
+  Añadir al carrito | - | Alta | Baja
+  Ir al carrito | - | Alta | Baja
+  Subir tutorial | - | - | Alta
+  Subir kit | - | - | Alta
+  Seleccionar componentes del kit | - | Alta | Baja
+
+> [!NOTE]
+> Hemos valorado las tareas según la prioridad o relevancia para los distintos tipos de usuario. Estas serían Alta/Media/Baja/- (no tiene acceso)
+
 
 ### 2.c IA: Sitemap + Labelling 
 
