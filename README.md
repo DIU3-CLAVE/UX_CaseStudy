@@ -167,7 +167,7 @@ Acción | Usuario no registrado | Usuario registrado | Administrador
 > [!NOTE]
 > Hemos valorado las tareas según la prioridad o relevancia para los distintos tipos de usuario. Estas serían Alta/Media/Baja/- (no tiene acceso)
 
-Enlace al pdf: [TaskAnalysis](./3.UserFlows/TaskAnalysis.pdf)
+Enlace al pdf: [TaskAnalysis](./P2/3.UserFlows/TaskAnalysis.pdf)
 ### 2.c IA: Sitemap + Labelling 
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
