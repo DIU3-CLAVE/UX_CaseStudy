@@ -175,8 +175,9 @@ Acción | Usuario no registrado | Usuario registrado | Administrador
   
 ![Sitemap](P2/4.Sitemap/Sitemap.png)
 
+* Labelling
 
-| **Termino**                  | **Significado**                                                                                                                                     |
+| **Término**                  | **Significado**                                                                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | HomePage                  | Página principal que da acceso al resto de funcionalidades de la web                                                                               |
 | Mi cuenta                 | Página donde se muestra todo lo relacionado con la cuenta de usuario                                                                               |
