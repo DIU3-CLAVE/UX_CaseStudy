@@ -12,7 +12,7 @@
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix: [TaskAnalysis](./3.UserFlows/TaskAnalysis.pdf)
 * User/Task flow: [UserFlows](./3.UserFlows/Userflows.pdf)
 
 
