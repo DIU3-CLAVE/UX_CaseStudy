@@ -273,10 +273,12 @@ Vamos a usar lo siguiente:
 - Search: barras de búsqueda para buscar un curso, kit, tutorial, producto o publicación del blog por su nombre.
 - Cards items: para representar una vista general de los distintos servicios que ofrecemos. En cada vista hay una lista con 5 cards que se pueden ver realizando scroll vertical.
 - Item details + actions: cada curso tiene un título y foto, descripción, botón para apuntarse y una sección de comentarios, es decir, tiene una vista detallada; al igual que los kits, tutoriales, productos del catálogo y posts del blog.
-- Form input: formularios para registrarse, iniciar sesión y editar los datos del usuario.
+- Form input: formularios para registrarse, iniciar sesión y editar los datos del usuario. Además, al clicar en cualquier campo del formulario aparece el teclado.
 - Shopping cart: página para comprar cursos, kits o productos.
 - About: pequeña descripción de quiénes somos, preguntas frecuentes e información de contacto.
+- Filtros: filtros para ordenar por distintas categorías.
 
+Todo esto se encuentra más detallado y acompañado de imágenes en: [Guidelines](./P3/3.Guidelines/Guidelines.pdf) 
 
 
 ### 3.d Mockup
