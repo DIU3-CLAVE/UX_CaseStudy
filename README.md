@@ -292,6 +292,11 @@ Aquí os dejamos el [link](https://www.figma.com/proto/0Qb79EL8omNhtkVEbWiPW6/Wi
 
 > [!NOTE]
 > En algunas pantallas hemos simulado la acción de volver hacia atrás con una animación de deslizar la pantalla hacia el lateral.
+> Al clicar fuera del frame se indican los elementos interactuables. Sin embargo, hay algunos que no se indican, por ejemplo:
+> - Las páginas tienen scroll vertical.
+> - El mapa de la sección contacto se amplia si mantienes pulsado.
+> - En la vista de un tutorial, en tutoriales recomendados hay scroll horizontal
+> - En los comentarios, se puede interactuar con las estrellas y los pulgares.
 
 
 
