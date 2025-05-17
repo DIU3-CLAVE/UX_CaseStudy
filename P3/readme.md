@@ -4,7 +4,7 @@
 * Landing Page: [LandingPage](./2.LandingPage/Landing_page.pdf)
 * Guidelines: [Guidelines](./3.Guidelines/Guidelines.pdf)
 * Mockup- HIFI: [HiFi](./4.LayoutHiFi/HIFI.pdf)
-* Link:
+* Link: [Case_Study](https://github.com/DIU3-CLAVE/UX_CaseStudy/tree/master)
 - Publicación del Case Study
 
 ## Conclusiones
