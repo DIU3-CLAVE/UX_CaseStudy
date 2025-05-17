@@ -262,8 +262,21 @@ Esta práctica nos ha ayudado a comprender mejor los puntos críticos de la pág
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+Para hacer los componentes hemos utilizado los plugins de Figma “Material 3 Design Kit” y el de “IOS 18”, aunque también hemos creado nuestros propios componentes. Además, para mantener la coherencia hemos usado el color morado para los botones, y hemos seguido un código de colores durante toda la aplicación (rosa para los cursos y el blog, azul para los kits y sobre nosotros; y verde para los tutoriales y el catálogo).
+Tenemos algunos elementos de navegación que están fijos (en el header): el logo de Artea que te lleva a la página de inicio, el menú, el perfil y el carrito. 
+
+Vamos a usar lo siguiente:
+- Onboarding: hemos hecho una pequeña animación al inicio de la aplicación, que simula una bombilla encendiéndose y lleva a una página en la que se da la bienvenida al usuario, explica un poco el propósito de la aplicación y hay un botón que conduce a la página de inicio de sesión.
+- Menú: hemos realizado un menú hamburguesa usando un overlay con las distintas secciones de nuestra página, también diferenciadas por colores.
+- Hero image + Carousel: En la página principal hay un carousel que enseña imágenes de cursos anteriores. La imagen principal es de mayor tamaño y se van pasando las imágenes automáticamente.
+- Search: barras de búsqueda para buscar un curso, kit, tutorial, producto o publicación del blog por su nombre.
+- Cards items: para representar una vista general de los distintos servicios que ofrecemos. En cada vista hay una lista con 5 cards que se pueden ver realizando scroll vertical.
+- Item details + actions: cada curso tiene un título y foto, descripción, botón para apuntarse y una sección de comentarios, es decir, tiene una vista detallada; al igual que los kits, tutoriales, productos del catálogo y posts del blog.
+- Form input: formularios para registrarse, iniciar sesión y editar los datos del usuario.
+- Shopping cart: página para comprar cursos, kits o productos.
+- About: pequeña descripción de quiénes somos, preguntas frecuentes e información de contacto.
+
 
 
 ### 3.d Mockup
