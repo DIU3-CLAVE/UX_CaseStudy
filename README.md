@@ -3,25 +3,25 @@ Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraf
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIU3_CLAVE.  Curso: 2024/25 
+**Grupo:** DIU3_CLAVE.  **Curso:** 2024/25 
 
-Actualizado: 1/04/2025
+**Actualizado:** 1/04/2025
 
-Proyecto: ARTEA
+**Proyecto:** ARTEA
 
-Descripción: 
+**Descripción:**
 
 La idea de nuestro proyecto es añadir una sección para que los usuarios puedan aprender el arte de la cerámica gracias a kits y tutoriales que estarán disponibles en la página. El objetivo principal es dar una pequeña prueba que pueden realizar desde casa para que los usuarios decidan si les gusta. Y en ese caso, animarles a que se apunten a los cursos y talleres.
 
-Logotipo: 
+**Logotipo:**
 
 ![Logo](P3/1.Moodboard/Logo.png)
 
-Miembros:
+**Miembros:**
  * :bust_in_silhouette:  Clara Ruo García Segovia     :octocat:     
  * :bust_in_silhouette:  Eva Valcárcel López     :octocat:
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+**Demo:**
 
 ----- 
 
