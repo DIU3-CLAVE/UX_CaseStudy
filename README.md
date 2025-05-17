@@ -15,6 +15,7 @@ La idea de nuestro proyecto es añadir una sección para que los usuarios puedan
 
 Logotipo: 
 
+
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
@@ -246,11 +247,10 @@ Esta práctica nos ha ayudado a comprender mejor los puntos críticos de la pág
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
------
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
+![Moodboard](P3/1.Moodboard/Moodboard.png)
+
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
 ### 3.b Landing Page
