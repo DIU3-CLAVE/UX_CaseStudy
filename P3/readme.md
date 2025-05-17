@@ -3,7 +3,8 @@
 * Moodboard: [Moodboard](./1.Moodboard/Moodboard.pdf)
 * Landing Page: [LandingPage](./2.LandingPage/Landing_page.pdf)
 * Guidelines: [Guidelines](./3.Guidelines/Guidelines.pdf)
-- Mockup: LAYOUT HI-FI
+* Mockup- HIFI: [HiFi](./4.LayoutHiFi/HIFI.pdf)
+* Link:
 - Publicación del Case Study
 
 ## Conclusiones
