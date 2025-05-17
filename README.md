@@ -15,7 +15,7 @@ La idea de nuestro proyecto es añadir una sección para que los usuarios puedan
 
 **Logotipo:**
 
-![Logo](P3/1.Moodboard/Logo.png)
+![Logo](P3/1.Moodboard/logo.png)
 
 **Miembros:**
  * :bust_in_silhouette:  Clara Ruo García Segovia     :octocat:     
