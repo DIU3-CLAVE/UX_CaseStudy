@@ -14,9 +14,8 @@ Descripción:
 La idea de nuestro proyecto es añadir una sección para que los usuarios puedan aprender el arte de la cerámica gracias a kits y tutoriales que estarán disponibles en la página. El objetivo principal es dar una pequeña prueba que pueden realizar desde casa para que los usuarios decidan si les gusta. Y en ese caso, animarles a que se apunten a los cursos y talleres.
 
 Logotipo: 
-![Logo](P3/1.Moodboard/Logo.png)
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo](P3/1.Moodboard/Logo.png)
 
 Miembros:
  * :bust_in_silhouette:  Clara Ruo García Segovia     :octocat:     
