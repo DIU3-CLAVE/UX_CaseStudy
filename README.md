@@ -26,7 +26,11 @@ Aquí os dejamos el [link](https://www.figma.com/proto/0Qb79EL8omNhtkVEbWiPW6/Wi
 
 > [!NOTE]
 > En algunas pantallas hemos simulado la acción de volver hacia atrás con una animación de deslizar la pantalla hacia el lateral.
-
+> Al clicar fuera del frame se indican los elementos interactuables. Sin embargo, hay algunos que no se indican, por ejemplo:
+> - Las páginas tienen scroll vertical.
+> - El mapa de la sección contacto se amplia si mantienes pulsado.
+> - En la vista de un tutorial, en tutoriales recomendados hay scroll horizontal
+> - En los comentarios, se puede interactuar con las estrellas y los pulgares.
 
 ----- 
 
@@ -246,9 +250,6 @@ Esta práctica nos ha ayudado a comprender mejor los puntos críticos de la pág
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-  
-
 ### 3.a Moodboard
 **Moodboard:**
 ![Moodboard](P3/1.Moodboard/Moodboard.png)
@@ -264,24 +265,21 @@ Esta práctica nos ha ayudado a comprender mejor los puntos críticos de la pág
 
 
 ### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
-
 
 Para hacer los componentes hemos utilizado los plugins de Figma “Material 3 Design Kit” y el de “IOS 18”, aunque también hemos creado nuestros propios componentes. Además, para mantener la coherencia hemos usado el color morado para los botones, y hemos seguido un código de colores durante toda la aplicación (rosa para los cursos y el blog, azul para los kits y sobre nosotros; y verde para los tutoriales y el catálogo).
 Tenemos algunos elementos de navegación que están fijos (en el header): el logo de Artea que te lleva a la página de inicio, el menú, el perfil y el carrito. 
 
 Vamos a usar lo siguiente:
-- Onboarding: hemos hecho una pequeña animación al inicio de la aplicación, que simula una bombilla encendiéndose y lleva a una página en la que se da la bienvenida al usuario, explica un poco el propósito de la aplicación y hay un botón que conduce a la página de inicio de sesión.
-- Menú: hemos realizado un menú hamburguesa usando un overlay con las distintas secciones de nuestra página, también diferenciadas por colores.
-- Hero image + Carousel: En la página principal hay un carousel que enseña imágenes de cursos anteriores. La imagen principal es de mayor tamaño y se van pasando las imágenes automáticamente.
-- Search: barras de búsqueda para buscar un curso, kit, tutorial, producto o publicación del blog por su nombre.
-- Cards items: para representar una vista general de los distintos servicios que ofrecemos. En cada vista hay una lista con 5 cards que se pueden ver realizando scroll vertical.
-- Item details + actions: cada curso tiene un título y foto, descripción, botón para apuntarse y una sección de comentarios, es decir, tiene una vista detallada; al igual que los kits, tutoriales, productos del catálogo y posts del blog.
-- Form input: formularios para registrarse, iniciar sesión y editar los datos del usuario. Además, al clicar en cualquier campo del formulario aparece el teclado.
-- Shopping cart: página para comprar cursos, kits o productos.
-- About: pequeña descripción de quiénes somos, preguntas frecuentes e información de contacto.
-- Filtros: filtros para ordenar por distintas categorías.
+**- Onboarding:** hemos hecho una pequeña animación al inicio de la aplicación, que simula una bombilla encendiéndose y lleva a una página en la que se da la bienvenida al usuario, explica un poco el propósito de la aplicación y hay un botón que conduce a la página de inicio de sesión.
+**- Menú:** hemos realizado un menú hamburguesa usando un overlay con las distintas secciones de nuestra página, también diferenciadas por colores.
+**- Hero image + Carousel:** En la página principal hay un carousel que enseña imágenes de cursos anteriores. La imagen principal es de mayor tamaño y se van pasando las imágenes automáticamente.
+**- Search:** barras de búsqueda para buscar un curso, kit, tutorial, producto o publicación del blog por su nombre.
+**- Cards items:** para representar una vista general de los distintos servicios que ofrecemos. En cada vista hay una lista con 5 cards que se pueden ver realizando scroll vertical.
+**- Item details + actions:** cada curso tiene un título y foto, descripción, botón para apuntarse y una sección de comentarios, es decir, tiene una vista detallada; al igual que los kits, tutoriales, productos del catálogo y posts del blog.
+**- Form input:** formularios para registrarse, iniciar sesión y editar los datos del usuario. Además, al clicar en cualquier campo del formulario aparece el teclado.
+**- Shopping cart:** página para comprar cursos, kits o productos.
+**- About:** pequeña descripción de quiénes somos, preguntas frecuentes e información de contacto.
+**- Filtros:** filtros para ordenar por distintas categorías.
 
 Todo esto se encuentra más detallado y acompañado de imágenes en: [Guidelines](./P3/3.Guidelines/Guidelines.pdf) 
 
