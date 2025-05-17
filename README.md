@@ -249,6 +249,7 @@ Esta práctica nos ha ayudado a comprender mejor los puntos críticos de la pág
 ![Moodboard](P3/1.Moodboard/Moodboard.png)
 
 **Logo:**
+
 ![Logo](P3/1.Moodboard/Logo.png)
 
 
