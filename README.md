@@ -254,10 +254,8 @@ Esta práctica nos ha ayudado a comprender mejor los puntos críticos de la pág
 
 
 ### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
+![LandingPage](P3/2.LandingPage/Landing_page.png)
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
 ### 3.c Guidelines
