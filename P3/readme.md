@@ -1,7 +1,7 @@
 # DIU - Practica 3, entregables
 
 * Moodboard: [Moodboard](./1.Moodboard/Moodboard.pdf)
-- Landing Page
+* Landing Page: [LandingPage](./2.LandingPage/Landing_page.pdf)
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
 
