@@ -282,10 +282,12 @@ Todo esto se encuentra más detallado y acompañado de imágenes en: [Guidelines
 
 
 ### 3.d Mockup
-![Método UX](img/mockup.png) 
-----
+Nuestro Mockup comienza con una pequeña animación Onboarding que da la bienvenida al usuario. Seguidamente, hay un formulario para registro o inicio de sesión.Una vez iniciado sesión, aparece la página de inicio. El menú de navegación en la parte superior permite cambiar entre las principales secciones.
+Aquí os dejamos el [link](https://www.figma.com/proto/0Qb79EL8omNhtkVEbWiPW6/Wireframes?node-id=383-3982&t=UD9xkAV7ArfxcaYF-0&scaling=min-zoom&content-scaling=fixed&page-id=60%3A18&starting-point-node-id=383%3A3982&show-proto-sidebar=1) para que echéis un vistazo. Recomendamos poner el modo de pantalla completa.
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+> [!NOTE]
+> En algunas pantallas hemos simulado la acción de volver hacia atrás con una animación de deslizar la pantalla hacia el lateral.
+
 
 
 ### 3.e ¿My UX-Case Study?
