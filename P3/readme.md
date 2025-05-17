@@ -6,7 +6,7 @@
 * Mockup- HIFI: [HiFi](./4.LayoutHiFi/HIFI.pdf)
 * Publicación del Case Study:  [Case_Study](https://github.com/DIU3-CLAVE/UX_CaseStudy/tree/master)
 
-* Aquí os dejamos el [link](https://www.figma.com/proto/0Qb79EL8omNhtkVEbWiPW6/Wireframes?node-id=383-3982&t=UD9xkAV7ArfxcaYF-0&scaling=min-zoom&content-scaling=fixed&page-id=60%3A18&starting-point-node-id=383%3A3982&show-proto-sidebar=1) para que echéis un vistazo. Recomendamos poner el modo de pantalla completa.
+* Aquí os dejamos el [link](https://www.figma.com/proto/0Qb79EL8omNhtkVEbWiPW6/Wireframes?node-id=383-3982&t=UD9xkAV7ArfxcaYF-0&scaling=min-zoom&content-scaling=fixed&page-id=60%3A18&starting-point-node-id=383%3A3982&show-proto-sidebar=1) del Mockup para que echéis un vistazo. Recomendamos poner el modo de pantalla completa.
 
 > [!NOTE]
 > En algunas pantallas hemos simulado la acción de volver hacia atrás con una animación de deslizar la pantalla hacia el lateral.
