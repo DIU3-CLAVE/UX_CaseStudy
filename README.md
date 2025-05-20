@@ -325,20 +325,19 @@ Puedes ver nuestro UX-Case Study completo [aquí](https://github.com/DIU3-CLAVE/
 ## Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
 
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+El caso asignado es el proyecto "[ReMade](https://github.com/DIU3-ExtremosYDuros/UX_CaseStudy)". Se trata de una aplicación en la que se vende ropa artesanal y se realizan talleres multitudinarios. Además, está enfocada en crear una gran comunidad artística donde tenga cabida todo tipo de personas. Para ello, cuenta con un foro donde se pueden comunicar y puclicar fotos.
 
+>>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Gabriel       | H / 21   | Estudiante  | Alta        |              | Web.       | B 
+| Nico/Elena    | H / 18   | Estudiante  | Media       |              | Web        | A 
+| Patricia      | M / 30   | Traductora  | Media       | Racional     | móvil      | B 
+| Martina       | M / 21   | Estudiante  | Media       | Racional     | Web        | A 
 
 
 ### 4.b Diseño de las pruebas 
