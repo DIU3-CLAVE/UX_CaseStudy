@@ -333,10 +333,10 @@ El caso asignado es el proyecto "[ReMade](https://github.com/DIU3-ExtremosYDuros
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Gabriel       | H / 21   | Estudiante  | Alta        |  Racional    | Web.       | B 
 | Celeste       | M / 24   | Estudiante  | Media       |  Emocional   | Web        | A 
-| Patricia      | M / 30   | Traductora  | Media       |              | móvil      | B 
-| Martina       | M / 21   | Estudiante  | Media       |              | Web        | A 
+|               |          |             |             |              |            | A 
+| Gabriel       | H / 21   | Estudiante  | Alta        |  Racional    | Web        | B 
+|               |          |             |             |              |            | B 
 
 
 ### 4.b Diseño de las pruebas 
@@ -371,8 +371,9 @@ Hemos utilizado la herramienta Gaze Recorder para analizar la usabilidad del cas
 
 **Tarea 1:** para comprobar si el usuario es capaz de añadir a otro usuario como amigo en la aplicación. Además, también nos sirve para saber qué elementos destacan más para el usuario.
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+![1](P4/5.EyeTracking/1.png)
+![1](P4/5.EyeTracking/2.png)
+![1](P4/5.EyeTracking/3.png)
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
