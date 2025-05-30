@@ -372,8 +372,11 @@ Hemos utilizado la herramienta Gaze Recorder para analizar la usabilidad del cas
 **Tarea 1:** para comprobar si el usuario es capaz de añadir a otro usuario como amigo en la aplicación. Además, también nos sirve para saber qué elementos destacan más para el usuario.
 
 ![1](P4/5.EyeTracking/User3/1.png)
+
 ![1](P4/5.EyeTracking/User3/2.png)
+
 ![1](P4/5.EyeTracking/User3/3.png)
+
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
