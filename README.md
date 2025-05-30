@@ -369,7 +369,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 Hemos utilizado la herramienta Gaze Recorder para analizar la usabilidad del caso B (ReMade). Para ello, hemos elegido a dos usuarios que no habían visto antes la aplicación y le hemos pedido a cada uno que realice una tarea.
 
-**Tarea 1:** para comprobar si el usuario es capaz de añadir a otro usuario como amigo en la aplicación. Además, también nos sirve para saber qué elementos destacan más para el usuario.
+**Tarea 1:** con esta tarea queremos comprobar si el usuario es capaz de añadir a otro usuario como amigo en la aplicación. Además, también nos sirve para saber qué elementos destacan más para el usuario. Como podremos observar a continuación, lo más llamativo para el usuario son las imágenes. También vemos que se ha centrado en los títulos, lo cual es necesario para la tarea que se le había encomendado. 
 
 ![1](P4/5.EyeTracking/User3/1.png)
 
