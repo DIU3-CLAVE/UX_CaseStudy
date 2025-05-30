@@ -326,7 +326,6 @@ Puedes ver nuestro UX-Case Study completo [aquí](https://github.com/DIU3-CLAVE/
 
 ### 4.a Reclutamiento de usuarios 
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 El caso asignado es el proyecto "[ReMade](https://github.com/DIU3-ExtremosYDuros/UX_CaseStudy)". Se trata de una aplicación en la que se vende ropa artesanal y se realizan talleres multitudinarios. Además, está enfocada en crear una gran comunidad artística donde tenga cabida todo tipo de personas. Para ello, cuenta con un foro donde se pueden comunicar y puclicar fotos.
 
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
@@ -334,10 +333,10 @@ El caso asignado es el proyecto "[ReMade](https://github.com/DIU3-ExtremosYDuros
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Gabriel       | H / 21   | Estudiante  | Alta        |              | Web.       | B 
-| Nico/Elena    | H / 18   | Estudiante  | Media       |              | Web        | A 
-| Patricia      | M / 30   | Traductora  | Media       | Racional     | móvil      | B 
-| Martina       | M / 21   | Estudiante  | Media       | Racional     | Web        | A 
+| Gabriel       | H / 21   | Estudiante  | Alta        |  Racional    | Web.       | B 
+| Celeste       | M / 24   | Estudiante  | Media       |  Emocional   | Web        | A 
+| Patricia      | M / 30   | Traductora  | Media       |              | móvil      | B 
+| Martina       | M / 21   | Estudiante  | Media       |              | Web        | A 
 
 
 ### 4.b Diseño de las pruebas 
@@ -365,17 +364,15 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
+Hemos utilizado la herramienta Gaze Recorder para analizar la usabilidad del caso B (ReMade). Para ello, hemos elegido a dos usuarios que no habían visto antes la aplicación y le hemos pedido a cada uno que realice una tarea.
+
+**Tarea 1:** para comprobar si el usuario es capaz de añadir a otro usuario como amigo en la aplicación. Además, también nos sirve para saber qué elementos destacan más para el usuario.
 
 ![experimento](img/experimentoET.png)  
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
