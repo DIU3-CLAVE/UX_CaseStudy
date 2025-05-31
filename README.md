@@ -350,12 +350,14 @@ Por último, hemos realizado una prueba de Eye Tracking para averiguar qué part
 ![SUS](P4/3.CuestionarioSUS/cuestionarioSUS.png)
 
 **Valoración Personal**
+
 - Cipriano (caso A): "La página me ha parecido muy intuitiva y fácil de usar."
 - Celeste (caso A): "La aplicación tiene un diseño muy bonito, aunque la navegación es algo compleja."
 - Gabriel (caso B): "El diseño es sencillo aunque a veces puede ser poco intuitivo."
-- Irene (caso B): ""
+- Irene (caso B): "La página es fácil de usar"
 
 **Resultados**
+
 Para el caso A, se ha obtenido una media de 80 puntos (aceptable tipo B). Este ha recibido mejores puntuaciones en cuanto a la estética de la web, pero resulta un poco más compleja en cuanto a la navegación. Además, se ven puntuaciones más consistentes entre los usuarios.
 
 Para el caso B, hemos obtenido una puntuación media de 75 (aceptable tipo C). Aunque supera el umbral de aceptación, se obtuvieron puntuaciones más dispares entre los dos usuarios. En el caso de Gabriel, al intentar añadir a un usuario como amigo en la aplicación, una de las tareas a realizar en la prueba de Eye Tracking, le pareció poco intuitivo tener que clicar en la foto de perfil del usuario que escribió el post, ya que esperaba algún botón o alguna marca visual que resalte la funcionalidad.
