@@ -328,27 +328,37 @@ Puedes ver nuestro UX-Case Study completo [aquí](https://github.com/DIU3-CLAVE/
 
 El caso asignado es el proyecto "[ReVive](https://github.com/DIU3-ExtremosYDuros/UX_CaseStudy)". Se trata de una aplicación en la que se vende ropa artesanal y se realizan talleres multitudinarios. Además, está enfocada en crear una gran comunidad artística donde tenga cabida todo tipo de personas. Para ello, cuenta con un foro donde se pueden comunicar y puclicar fotos.
 
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Celeste       | M / 24   | Estudiante  | Media       |  Emocional   | Web        | A 
-|               |          |             |             |              |            | A 
-| Gabriel       | H / 21   | Estudiante  | Alta        |  Racional    | Web        | B 
-|               |          |             |             |              |            | B 
+| Usuarios      | Sexo/Edad  | Ocupación               |  Exp.TIC    | Personalidad | Plataforma | Caso
+| ------------- | --------   | -----------             | ----------- | -----------  | ---------- | ----
+| Celeste       | M / 24     | Estudiante de Máster    | Media       |  Emocional   | Web        | A 
+| Cipriano      | H / 54     | Ingeniero industrial    | Alta        |  Racional    | Web        | A 
+| Gabriel       | H / 21     | Estudiante de Grado     | Alta        |  Racional    | Web        | B 
+| Irene         | M / 17     | Estudiante de Instituto | Media       |  Emocional   | Web        | B 
 
 ### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
------
+Para evaluar la usabilidad de los dos casos realizaremos 3 tipos de pruebas.
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+En primer lugar, haremos una prueba A/B Testing, siendo el caso A nuestro proyecto "Artea" y el caso B, el proyecto "ReVive". Este tipo de prueba se centra en ver si se cumplen ciertos objetivos. Para ello, le hemos propuesto a los usuarios que realicen las mismas 3 tareas para cada proyecto.  
 
+A continuación, tras haber interactuado con cada una de las interfaces, los usuarios completaron el cuestionario SUS. Este consiste en 10 preguntas evaluadas del 1 (en desacuerdo) al 5 (totalmente de acuerdo).  Se considera que los resultados son aceptables a partir de una puntuación de 70.
 
+Por último, hemos realizado una prueba de Eye Tracking para averiguar qué partes reciben más atención y si los usuarios se detienen a leer o realizan un escaneo rápido. Esta prueba solo la hemos hecho para el caso B, pidiendo a cada usuario que realice una tarea diferente.
 
 ### 4.c Cuestionario SUS
 
 ![SUS](P4/3.CuestionarioSUS/cuestionarioSUS.png)
+
+**Valoración Personal**
+- Cipriano (caso A): "La página me ha parecido muy intuitiva y fácil de usar."
+- Celeste (caso A): "La aplicación tiene un diseño muy bonito, aunque la navegación es algo compleja."
+- Gabriel (caso B): "El diseño es sencillo aunque a veces puede ser poco intuitivo."
+- Irene (caso B): ""
+
+**Resultados**
+Para el caso A, se ha obtenido una media de 80 puntos (aceptable tipo B)
+
+Para el caso B, hemos obtenido una puntuación media de 75 (aceptable tipo C)
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
