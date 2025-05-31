@@ -338,7 +338,6 @@ El caso asignado es el proyecto "[ReMade](https://github.com/DIU3-ExtremosYDuros
 | Gabriel       | H / 21   | Estudiante  | Alta        |  Racional    | Web        | B 
 |               |          |             |             |              |            | B 
 
-
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
