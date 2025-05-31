@@ -392,6 +392,7 @@ Tras estos resultados, podemos concluir que el caso B es más usable, ya que con
 **Enlaces a los resultados**
 
 [Caso A](P4/4.AB_Testing/Maze-Report_CLAVE.pdf)
+
 [Caso B](P4/4.AB_Testing/Maze-Report_ReVive.pdf)
 
 **Solución propuesta**
