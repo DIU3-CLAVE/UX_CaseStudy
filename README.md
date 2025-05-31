@@ -354,7 +354,7 @@ Por último, hemos realizado una prueba de Eye Tracking para averiguar qué part
 - Cipriano (caso A): "La página me ha parecido muy intuitiva y fácil de usar."
 - Celeste (caso A): "La aplicación tiene un diseño muy bonito, aunque la navegación es algo compleja."
 - Gabriel (caso B): "El diseño es sencillo aunque a veces puede ser poco intuitivo."
-- Irene (caso B): "La página es fácil de usar"
+- Irene (caso B): "La página es fácil de usar."
 
 **Resultados**
 
@@ -362,7 +362,7 @@ Para el caso A, se ha obtenido una media de 80 puntos (aceptable tipo B). Este h
 
 Para el caso B, hemos obtenido una puntuación media de 75 (aceptable tipo C). Aunque supera el umbral de aceptación, se obtuvieron puntuaciones más dispares entre los dos usuarios. En el caso de Gabriel, al intentar añadir a un usuario como amigo en la aplicación, una de las tareas a realizar en la prueba de Eye Tracking, le pareció poco intuitivo tener que clicar en la foto de perfil del usuario que escribió el post, ya que esperaba algún botón o alguna marca visual que resalte la funcionalidad.
 
-**Enlace al pdf**: ![SUS](P4/3.CuestionarioSUS/cuestionarioSUS.pdf)
+**Enlace al pdf**: [SUS](P4/3.CuestionarioSUS/cuestionarioSUS.pdf)
 
 
 ### 4.d A/B Testing
@@ -380,6 +380,7 @@ Hemos realizado 3 pruebas aplicadas a cada prototipo.
 | Prueba 3    | Tiempo medio      | 70 s      | 25.5 s       
 
 **Comentarios**
+
 Gracias a la prueba 1 aplicada al caso A, nos hemos dado cuenta de un problema que tenía nuestro prototipo. Como hemos rehusado componentes, es posible saltarse la pantalla de Log-In inicial y entrar directamente en el perfil, carrito o menú principal, sin haber iniciado sesión previamente. La idea de esta prueba era que el usuario iniciara sesión, y desde la homepage accediera a su perfil y lo editara. Sin embargo, desde la pantalla de onboarding han accedido al perfil. En el caso B sí han seguido la ruta adecuada.
 
 En la segunda prueba, en ambos casos se ha llegado a la pantalla objetivo pero hemos tenido un problema en el caso B. No sabemos si ha sido por un error del prototipo o de Maze, pero no dejaba cambiar de pantalla. Por este motivo, cada usuario ha tenido que repetir la prueba en otro dispositivo, lo que explica por qué en los resultados figura que han realizado la prueba cuatro personas.
@@ -389,10 +390,12 @@ En la tercera prueba, hemos dejado que el usuario navegara libremente, aunque al
 Tras estos resultados, podemos concluir que el caso B es más usable, ya que consiguió superar la prueba 1 con éxito. Sin embargo, si se solucionara el problema del caso A, al haber mostrado los usuarios más interés en la prueba 3, este sería más usable.
 
 **Enlaces a los resultados**
-![Caso A](P4/4.AB_Testing/Maze-Report_CLAVE.pdf)
-![Caso B](P4/4.AB_Testing/Maze-Report_ReVive.pdf)
+
+[Caso A](P4/4.AB_Testing/Maze-Report_CLAVE.pdf)
+[Caso B](P4/4.AB_Testing/Maze-Report_ReVive.pdf)
 
 **Solución propuesta**
+
 Hemos solucionado el problema encontrado en la prueba 1. Este es el [enlace](https://www.figma.com/proto/0Qb79EL8omNhtkVEbWiPW6/Wireframes?node-id=478-6538&t=YZS9xN9gUfQ7LGxk-0&scaling=contain&content-scaling=fixed&page-id=478%3A6476&starting-point-node-id=478%3A6549) al prototipo arreglado.
 
 
@@ -401,6 +404,7 @@ Hemos solucionado el problema encontrado en la prueba 1. Este es el [enlace](htt
 Hemos utilizado la herramienta Gaze Recorder para analizar la usabilidad del caso B (ReVive). Para ello, hemos elegido a dos usuarios que no habían visto antes la aplicación y le hemos pedido a cada uno que realice una tarea.
 
 **Tarea 1:** con esta tarea queremos comprobar si el usuario es capaz de añadir a otro usuario como amigo en la aplicación. Además, también nos sirve para saber qué elementos destacan más para el usuario. 
+
 ![1](P4/5.EyeTracking/User3/1.png)
 
 ![2](P4/5.EyeTracking/User3/2.png)
@@ -413,9 +417,7 @@ Como podemos observar, lo más llamativo para el usuario son las imágenes. Tamb
 **Tarea 2:** esta tarea consiste en ver si el usuario es capaz de enviar un mensaje y qué es lo que más le llama la atención de la página para conseguirlo. 
 
 ![1](P4/5.EyeTracking/User4/1.png)
-
 ![2](P4/5.EyeTracking/User4/2.png)
-
 ![3](P4/5.EyeTracking/User4/3.png)
 
 Como podemos observar, el usuario ha mirado más el texto, aunque en la página principal le ha llamado más la atención las imágenes.
@@ -434,6 +436,7 @@ Como podemos observar, el usuario ha mirado más el texto, aunque en la página 
 ### Fecha: 29/05/2025
 
 ![logoB](P4/logoB.png)
+
 [Enlace a GITHUB del proyecto](https://github.com/DIU3-ExtremosYDuros/UX_CaseStudy)
 
 
@@ -483,14 +486,16 @@ En primer lugar, hicimos una prueba A/B Testing, siendo el caso A nuestro proyec
 #### Resultados obtenidos
 
 **Resultados del cuestionario SUS**
-![SUS](P4/3.CuestionarioSUS/cuestionarioSUS.pdf)
+
+[SUS](P4/3.CuestionarioSUS/cuestionarioSUS.pdf)
 
 Para el caso A, se ha obtenido una media de 80 puntos (aceptable tipo B). Este ha recibido mejores puntuaciones en cuanto a la estética de la web, pero resulta un poco más compleja en cuanto a la navegación. Además, se ven puntuaciones más consistentes entre los usuarios.
 
 Para el caso B, hemos obtenido una puntuación media de 75 (aceptable tipo C). Aunque supera el umbral de aceptación, se obtuvieron puntuaciones más dispares entre los dos usuarios. 
 
 **Resultados del Eye Tracking**
-![EyeTracking](P4/5.EyeTracking/EyeTracking.pdf)
+
+[EyeTracking](P4/5.EyeTracking/EyeTracking.pdf)
 
 
 ## 4 CONCLUSIONES 
