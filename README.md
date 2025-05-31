@@ -326,7 +326,7 @@ Puedes ver nuestro UX-Case Study completo [aquí](https://github.com/DIU3-CLAVE/
 
 ### 4.a Reclutamiento de usuarios 
 
-El caso asignado es el proyecto "[ReMade](https://github.com/DIU3-ExtremosYDuros/UX_CaseStudy)". Se trata de una aplicación en la que se vende ropa artesanal y se realizan talleres multitudinarios. Además, está enfocada en crear una gran comunidad artística donde tenga cabida todo tipo de personas. Para ello, cuenta con un foro donde se pueden comunicar y puclicar fotos.
+El caso asignado es el proyecto "[ReVive](https://github.com/DIU3-ExtremosYDuros/UX_CaseStudy)". Se trata de una aplicación en la que se vende ropa artesanal y se realizan talleres multitudinarios. Además, está enfocada en crear una gran comunidad artística donde tenga cabida todo tipo de personas. Para ello, cuenta con un foro donde se pueden comunicar y puclicar fotos.
 
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
@@ -366,7 +366,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
-Hemos utilizado la herramienta Gaze Recorder para analizar la usabilidad del caso B (ReMade). Para ello, hemos elegido a dos usuarios que no habían visto antes la aplicación y le hemos pedido a cada uno que realice una tarea.
+Hemos utilizado la herramienta Gaze Recorder para analizar la usabilidad del caso B (ReVive). Para ello, hemos elegido a dos usuarios que no habían visto antes la aplicación y le hemos pedido a cada uno que realice una tarea.
 
 **Tarea 1:** con esta tarea queremos comprobar si el usuario es capaz de añadir a otro usuario como amigo en la aplicación. Además, también nos sirve para saber qué elementos destacan más para el usuario. Como podremos observar a continuación, lo más llamativo para el usuario son las imágenes. También vemos que se ha centrado en los títulos, lo cual es necesario para la tarea que se le había encomendado. 
 
