@@ -8,7 +8,7 @@
 
 ### Fecha: 29/05/2025
 
-![logoB](P4/logoB.png)
+[logoB](../logoB.png)
 
 [Enlace a GITHUB del proyecto](https://github.com/DIU3-ExtremosYDuros/UX_CaseStudy)
 
