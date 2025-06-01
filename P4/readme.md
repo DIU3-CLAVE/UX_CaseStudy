@@ -21,7 +21,6 @@
 - Eye Tracking para B: [pdf](./5.EyeTracking/EyeTracking.pdf)
 - Usability Report del Caso B, con toda la información recabada del caso B: [pdf](./6.UsabilityReport/UsabilityReport.pdf)
 
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 - Conclusiones
 
 Al realizar esta práctica, nos hemos dado cuenta de la importancia que tiene hacer este tipo de evaluaciones, ya que gracias a una prueba muy sencilla del A/B Testing nos hemos dado cuenta de un problema bastante grave en la navegabilidad de nuestro proyecto. Además, hemos podido conocer las opiniones de otras personas acerca de nuestro trabajo, mostrándonos así puntos fuertes y débiles que nosotras hemos pasado por alto.
