@@ -405,7 +405,7 @@ Hemos solucionado el problema encontrado en la prueba 1. Este es el [enlace](htt
 
 ### 4.e Aplicación del método Eye Tracking 
 
-Hemos utilizado la herramienta Gaze Recorder para analizar la usabilidad del caso B (ReVive). Para ello, hemos elegido a dos usuarios que no habían visto antes la aplicación y le hemos pedido a cada uno que realice una tarea.
+Hemos utilizado la herramienta Gaze Recorder para analizar la usabilidad del caso B (ReVive). Para ello, hemos pedido a los dos usuarios que  han valorado el caso B que realicen una tarea, mientras registrábamos qué partes de la pantalla les llamaba más la atención.
 
 **Tarea 1:** con esta tarea queremos comprobar si el usuario es capaz de añadir a otro usuario como amigo en la aplicación. Además, también nos sirve para saber qué elementos destacan más para el usuario. 
 
@@ -424,7 +424,7 @@ Como podemos observar, lo más llamativo para el usuario son las imágenes. Tamb
 ![2](P4/5.EyeTracking/User4/2.png)
 ![3](P4/5.EyeTracking/User4/3.png)
 
-Como podemos observar, el usuario ha mirado más el texto, aunque en la página principal le ha llamado más la atención las imágenes.
+Como podemos observar, el usuario ha mirado más el texto que el usuario anterior, aunque en la página principal le ha llamado más la atención las imágenes.
 
 
 ### 4.f Usability Report de B
