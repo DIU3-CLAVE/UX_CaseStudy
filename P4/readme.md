@@ -19,7 +19,7 @@
   | Prueba 3    | Tiempo medio      | 70 s      | 25.5 s
   
 - Eye Tracking para B: [pdf](./5.EyeTracking/EyeTracking.pdf)
-- Usability Report del Caso B, con toda la información recabada del caso B: [pdf](./6.UsabilityReport/UsabilityReport.pdf)
+- Usability Report del Caso B, con toda la información recabada del caso B: [pdf](./6.UsabilityReport)
 
 - Conclusiones
 
