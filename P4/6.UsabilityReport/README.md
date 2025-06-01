@@ -60,7 +60,7 @@ En primer lugar, hicimos una prueba A/B Testing, siendo el caso A nuestro proyec
 
 **Resultados del cuestionario SUS**
 
-[SUS](P4/3.CuestionarioSUS/cuestionarioSUS.pdf)
+[SUS](../3.CuestionarioSUS/cuestionarioSUS.pdf)
 
 Para el caso A, se ha obtenido una media de 80 puntos (aceptable tipo B). Este ha recibido mejores puntuaciones en cuanto a la estética de la web, pero resulta un poco más compleja en cuanto a la navegación. Además, se ven puntuaciones más consistentes entre los usuarios.
 
@@ -68,7 +68,7 @@ Para el caso B, hemos obtenido una puntuación media de 75 (aceptable tipo C). A
 
 **Resultados del Eye Tracking**
 
-[EyeTracking](P4/5.EyeTracking/EyeTracking.pdf)
+[EyeTracking](../5.EyeTracking/EyeTracking.pdf)
 
 
 ## 4 CONCLUSIONES 
