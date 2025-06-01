@@ -388,7 +388,7 @@ En la segunda prueba, en ambos casos se ha llegado a la pantalla objetivo pero h
 En la tercera prueba, hemos dejado que el usuario navegara libremente, aunque al final hemos aportado una pequeña asistencia para mostrarles interacciones que habían pasado por alto. Podemos observar que han permanecido más tiempo en el caso A.
 
 >[!NOTE]
->Cabe resaltar que al haber estado acompañando a los usuarios podemos afirmar que el tiempo que han permanecido en las páginas no se ha debido a desorientación o >problemas con la nevagación.
+>Cabe resaltar que al haber estado acompañando a los usuarios podemos afirmar que el tiempo que han permanecido en las páginas no se ha debido a desorientación o problemas con la navegación.
 
 Tras estos resultados, podemos concluir que el caso B es más usable, ya que consiguió superar la prueba 1 con éxito. Sin embargo, si se solucionara el problema del caso A, al haber mostrado los usuarios más interés en la prueba 3, este sería más usable.
 
