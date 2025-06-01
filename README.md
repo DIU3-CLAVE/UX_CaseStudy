@@ -400,7 +400,7 @@ Tras estos resultados, podemos concluir que el caso B es más usable, ya que con
 
 **Solución propuesta**
 
-Hemos solucionado el problema encontrado en la prueba 1. Este es el [enlace](https://www.figma.com/proto/0Qb79EL8omNhtkVEbWiPW6/Wireframes?node-id=478-6538&t=YZS9xN9gUfQ7LGxk-0&scaling=contain&content-scaling=fixed&page-id=478%3A6476&starting-point-node-id=478%3A6549) al prototipo arreglado.
+Hemos solucionado el problema encontrado en la prueba 1. Este es el [enlace]([https://www.figma.com/proto/0Qb79EL8omNhtkVEbWiPW6/Wireframes?node-id=478-6538&t=YZS9xN9gUfQ7LGxk-0&scaling=contain&content-scaling=fixed&page-id=478%3A6476&starting-point-node-id=478%3A6549](https://www.figma.com/proto/0Qb79EL8omNhtkVEbWiPW6/Wireframes?node-id=497-13416&p=f&t=kDGw9Mz8miHhvSTk-0&scaling=min-zoom&content-scaling=fixed&page-id=478%3A6476&starting-point-node-id=497%3A13488)) al prototipo arreglado.
 
 
 ### 4.e Aplicación del método Eye Tracking 
