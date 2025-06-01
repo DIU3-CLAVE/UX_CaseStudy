@@ -371,7 +371,7 @@ Hemos realizado 3 pruebas aplicadas a cada prototipo.
 
 - Prueba 1: en esta prueba el usuario tiene que conseguir editar los datos de su perfil. Para ello, hemos valorado que el usuario siga un camino específico.
 - Prueba 2: en esta prueba el usuario debe encontrar la sección de comentarios de los cursos (en el caso A) o talleres (en el caso B). Esta vez, hemos valorado que el usuario llegue a la pantalla objetivo, sin importar el camino seguido.
-- Prueba 3: en esta última prueba hemos dejado al usuario navegar libremente por las interfaces. En este caso, valoramos el tiempo medio que han permanecido en la página antes de finalizar el test.
+- Prueba 3: en esta última prueba hemos dejado al usuario navegar libremente por las interfaces. En este caso, valoramos el tiempo medio que han permanecido en la página antes de finalizar el test. Interpretando un mayor tiempo de estancia en esta prueba como un indicio de mayor interés.
 
 | Prueba      | Métrica           | Caso A    |  Caso B    
 | ------------| --------          | --------- | ----------- 
@@ -386,6 +386,9 @@ Gracias a la prueba 1 aplicada al caso A, nos hemos dado cuenta de un problema q
 En la segunda prueba, en ambos casos se ha llegado a la pantalla objetivo pero hemos tenido un problema en el caso B. No sabemos si ha sido por un error del prototipo o de Maze, pero no dejaba cambiar de pantalla. Por este motivo, cada usuario ha tenido que repetir la prueba en otro dispositivo, lo que explica por qué en los resultados figura que han realizado la prueba cuatro personas.
 
 En la tercera prueba, hemos dejado que el usuario navegara libremente, aunque al final hemos aportado una pequeña asistencia para mostrarles interacciones que habían pasado por alto. Podemos observar que han permanecido más tiempo en el caso A.
+
+>[!NOTE]
+>Cabe resaltar que al haber estado acompañando a los usuarios podemos afirmar que el tiempo que han permanecido en las páginas no se ha debido a desorientación o >problemas con la nevagación.
 
 Tras estos resultados, podemos concluir que el caso B es más usable, ya que consiguió superar la prueba 1 con éxito. Sin embargo, si se solucionara el problema del caso A, al haber mostrado los usuarios más interés en la prueba 3, este sería más usable.
 
